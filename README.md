@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer with **9+ years** of experience building scalable applications and exploring cutting-edge technologies. I love working with **Java**, **Python**, and diving deep into **microservices architecture** and **functional programming**.
+I'm a passionate software developer with **12+ years** of experience building scalable applications and exploring cutting-edge technologies. I love working with **Java**, **Python**, and diving deep into **microservices architecture** and **functional programming**.
 
 - 🔭 Currently exploring **microservices patterns** and **reactive programming**
 - 🌱 Always learning the latest **Java features** and **best practices**
